@@ -50,7 +50,7 @@
 - [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr) -->
+
 
 ---
 
@@ -64,7 +64,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com) -->
+
 
 ---
 
