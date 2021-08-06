@@ -7,7 +7,7 @@
 
 - 🔭 I'm also learning Backend to become a Full-Stack.
 - 🌱 I’m currently learning everything(UXUI, Full-Stack) 🤣
-- 🥅 2021 Goals: I'm going to try to make a Service website.
+- 🥅 2021 Goals: I'm going to make a web service.
 - ⚡ Fun fact: I love to draw with coding(P5.js, P3, GLSL, Three.js)
 
 ### Connect with me:
