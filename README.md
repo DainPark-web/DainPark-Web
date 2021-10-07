@@ -27,6 +27,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Threejs" width="26px" src="./assets/Threejs-logo.svg" />
 <img align="left" alt="Gsap" width="26px" src="./assets/webgl.png" />
+<img align="left" alt="Gsap" width="26px" src="./assets/opengl.png" />
 <img align="left" alt="Gsap" width="26px" src="./assets/gsap-greensock.svg" />
 <img align="left" alt="Gsap" width="26px" src="./assets/framerMotion.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
