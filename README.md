@@ -56,6 +56,10 @@
 
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/dain-park-485b82196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dain-park-485b82196/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yourpark_dainpark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yourpark_dainpark/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dain-park-485b82196/" target="blank">
+<img height="30" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
+<img height="30" alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+</a>
 </p>
