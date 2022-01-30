@@ -2,7 +2,7 @@
 <a href="mailto:zndgn555@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
-<h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷< and I'm living in Berlin now</h3>
+<h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and I'm living in Berlin 🇩🇪 now</h3>
 
 **About me**
 - ❤️ I love writing TypeScript, Javascript, React, and building fun experiments on type-level.
