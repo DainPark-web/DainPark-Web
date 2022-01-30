@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dain Park</h1>
-<h3 align="center">who is interested in Frontend dev, Generative art.</h3>
-
+<h1 align="left">Hi 👋, I'm Dain Park</h1>
+<h3 align="left">who is interested in Frontend dev, Generative art.</h3>
+<br>
 - 📫 How to reach me **zndgn555@gmail.com**
 
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dain-park-485b82196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dain-park-485b82196/" height="30" width="40" /></a>
