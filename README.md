@@ -1,6 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dain Park </h1>
 <a href="mailto:zndgn555@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  <img alt="Codewars" src="https://img.shields.io/badge/-Mail Me-pink?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://www.codewars.com/users/DainPark-web">
+  <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=Codewars&logoColor=white" />
 </a>
 <h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and I'm living in Berlin 🇩🇪 now</h3>
 
