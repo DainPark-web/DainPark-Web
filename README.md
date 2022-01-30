@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dain Park</h1>
 <h3 align="left">who is interested in Frontend dev, Generative art.</h3>
 <br>
-- 📫 How to reach me **zndgn555@gmail.com**
+- 📫 How to reach me <a href="mailto:zndgn555@gmail.com">zndgn555@gmail.com</a> 
 
 <br><br>
 <h3 align="left">Connect with me:</h3>
