@@ -6,7 +6,10 @@
 
 **About me**
 - ❤️ I love writing TypeScript, Javascript, React, and building fun experiments.
-- 👨‍🎤 I love making Generative art by using GLSL, JS(p5.js, D3js).
+- 👨‍🎤 I love making Generative art by using GLSL, JS(p5.js, D3js)
+<a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
+<img height="25" alt="Instagram" src="https://img.shields.io/badge/-clik me-68BC71?" />
+</a>
 - 💬 Ask me about anything
 
 <br>
