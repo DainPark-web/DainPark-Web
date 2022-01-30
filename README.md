@@ -5,7 +5,7 @@
 <a href="https://www.codewars.com/users/DainPark-web">
   <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=Codewars&logoColor=white" />
 </a>
-<h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and I'm living in Berlin 🇩🇪 now</h3>
+<h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
 - ❤️ I love writing TypeScript, Javascript, React, and building fun experiments on type-level.
