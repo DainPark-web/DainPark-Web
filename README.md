@@ -5,7 +5,7 @@
 <h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
-- ❤️ I love writing TypeScript, Javascript, React, and building fun experiments.
+- ❤️ I love writing TypeScript, Javascript and building fun experiments.
 - 👨‍🎤 I love making Generative art by using GLSL, JS(p5.js, D3js)
 <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="25" alt="Instagram" src="https://img.shields.io/badge/-click me-68BC71?" />
