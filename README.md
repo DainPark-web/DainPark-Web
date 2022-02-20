@@ -27,9 +27,9 @@
   <img height="30" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img height="30" alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img height="30" alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=white" />
+  <img height="30" alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-pink?style=falt-square&logo=graphql" />
   <img height="30" alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img height="30" alt="p5js" src="https://img.shields.io/badge/-P5.js-F9A03C?style=flat-square&logo=p5.js&logoColor=white" />
-  <img height="30" alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
   <img height="30" alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img height="30" alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img height="30" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
