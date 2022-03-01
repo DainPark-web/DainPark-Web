@@ -2,11 +2,12 @@
 <a href="mailto:zndgn555@gmail.com">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-Mail Me-pink?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
-<h3 align="left">I'm a self-taught passionate FrontEnd developer from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
+<h3 align="left">I'm a self-taught passionate FrontEnd developer with Designer Eyes from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
+- 🎓 I'm studying Information Design at Universität der Kunst Berlin
 - ❤️ I love writing TypeScript, Javascript and building fun experiments.
-- 👨‍🎤 I love making Generative art by using GLSL, JS(p5.js, D3js)
+- 👨‍🎤 I love making Generative art and Data Visualization by using GLSL, JS(p5.js, D3js)
 <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="25" alt="Instagram" src="https://img.shields.io/badge/-click me-68BC71?" />
 </a>
