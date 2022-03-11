@@ -7,7 +7,7 @@
 **About me**
 - 🎓 I'm studying Information Design at Universität der Kunst Berlin
 - ❤️ I love writing TypeScript, Javascript and building fun experiments.
-- 👨‍🎤 I love making Generative art and Data Visualization by using GLSL, JS(p5.js, D3js)
+
 <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="25" alt="Instagram" src="https://img.shields.io/badge/-click me-68BC71?" />
 </a>
@@ -17,9 +17,7 @@
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDainPark-web&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DainPark-web&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DainPark-web&langs_count=5&layout=compact&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,6 +35,7 @@
   <img height="30" alt="GraphQl" src="https://img.shields.io/badge/-GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img height="30" alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img height="30" alt="p5js" src="https://img.shields.io/badge/-P5.js-F9A03C?style=flat-square&logo=p5.js&logoColor=white" />
+  <img height="30" alt="ThreeJs" src="https://img.shields.io/badge/-Three.js-000?style=flat-square&logo=Three.js&logoColor=white" />
   <img height="30" alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img height="30" alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img height="30" alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white" />
