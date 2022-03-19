@@ -29,6 +29,8 @@
   <img height="30"  alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img height="30" alt="Nextjs" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
    <img height="30" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+   <img height="30" alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" />
+   <img height="30" alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-2D3748?style=flat-square&logo=&logoColor=white" />
   <img height="30" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img height="30" alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img height="30" alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=white" />
