@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DainPark-web&langs_count=5&layout=compact&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- 
 **Languages and Tools:** 
 <p>
   <img height="30" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -44,7 +44,7 @@
   <img height="30" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img height="30" alt="GLSL" src="https://img.shields.io/badge/-GLSL-000?style=flat-square&logo=&logoColor=white" />
   <img height="30" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
- 
+  -->
  
 </p>
 <br>
