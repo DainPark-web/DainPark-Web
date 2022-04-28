@@ -2,6 +2,9 @@
 <a href="mailto:zndgn555@gmail.com">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-Mail Me-pink?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+<a href="https://www.dainpark.com/">
+  <img height="40" alt="Codewars" src="https://img.shields.io/badge/-My Website-green?style=flat-square&logo=Web&logoColor=white" />
+</a>
 <h3 align="left">I'm a self-taught passionate FrontEnd developer with Designer Eyes from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
@@ -18,8 +21,8 @@
 <br>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DainPark-web&langs_count=5&layout=compact&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DainPark-web&langs_count=5&layout=compact&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 
 **Languages and Tools:** 
@@ -49,12 +52,12 @@
 </p>
 <br>
 
-**👾🎮👾:** 
+<!-- **👾🎮👾:** 
 
 <a href="https://www.codewars.com/users/DainPark-web">
   <img height="30" alt="Codewars" src="https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=Codewars&logoColor=white" />
 </a>
-<hr>
+<hr> -->
 
 <br>
 <p align="left">
