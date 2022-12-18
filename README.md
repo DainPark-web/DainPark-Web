@@ -5,9 +5,11 @@
 <a href="https://www.dainpark.com/">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-My Website-green?style=flat-square&logo=Web&logoColor=white" />
 </a>
+<img src="https://www.codewars.com/users/DainPark-web/badges/small" />
 <h3 align="left">I'm a self-taught passionate FrontEnd developer with Designer Eyes from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
+
 - 🎓 I'm studying Information Design at Universität der Kunst Berlin
 - ❤️ I love writing TypeScript, Javascript and building fun experiments.
 
@@ -19,7 +21,6 @@
 - 💬 Ask me about anything
 
 <br>
-
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DainPark-web&langs_count=5&layout=compact&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -48,7 +49,7 @@
   <img height="30" alt="GLSL" src="https://img.shields.io/badge/-GLSL-000?style=flat-square&logo=&logoColor=white" />
   <img height="30" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
   -->
- 
+
 </p>
 <br>
 
