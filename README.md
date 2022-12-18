@@ -5,7 +5,9 @@
 <a href="https://www.dainpark.com/">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-My Website-green?style=flat-square&logo=Web&logoColor=white" />
 </a>
+<a href="https://www.codewars.com/users/DainPark-web">
 <img src="https://www.codewars.com/users/DainPark-web/badges/small" />
+</a>
 <h3 align="left">I'm a self-taught passionate FrontEnd developer with Designer Eyes from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
 
 **About me**
