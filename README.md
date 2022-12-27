@@ -13,9 +13,9 @@
 
  
 <!-- **About me** -->
-
+<!-- 
 - 🎓 I'm studying Information Design at Universität der Kunst Berlin
-- ❤️ I love writing TypeScript, Javascript and building fun experiments.
+- ❤️ I love writing TypeScript, Javascript and building fun experiments. -->
 
 <!-- <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="25" alt="Instagram" src="https://img.shields.io/badge/-click me-68BC71?" />
