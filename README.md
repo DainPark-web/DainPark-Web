@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dain Park </h1>
-<!-- <a href="mailto:zndgn555@gmail.com">
+<a href="mailto:zndgn555@gmail.com">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-Mail Me-pink?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://www.dainpark.com/">
+
+<!-- <a href="https://www.dainpark.com/">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-My Website-green?style=flat-square&logo=Web&logoColor=white" />
 </a>
 <a href="https://www.codewars.com/users/DainPark-web">
@@ -10,17 +11,18 @@
 </a>
 <h3 align="left">I'm a self-taught passionate FrontEnd developer with Designer Eyes from South Korea 🇰🇷 and currently living in Berlin 🇩🇪 now</h3>
  -->
-**About me**
+ 
+<!-- **About me** -->
 
 - 🎓 I'm studying Information Design at Universität der Kunst Berlin
 - ❤️ I love writing TypeScript, Javascript and building fun experiments.
 
-<a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
+<!-- <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="25" alt="Instagram" src="https://img.shields.io/badge/-click me-68BC71?" />
 </a>
-<br/>
+<br/> -->
 
-- 💬 Ask me about anything
+<!-- - 💬 Ask me about anything -->
 
 <br>
 
