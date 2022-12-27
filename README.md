@@ -61,7 +61,7 @@
   <img height="30" alt="Codewars" src="https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=Codewars&logoColor=white" />
 </a>
 <hr> -->
-
+<!-- 
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/dain-park-485b82196/" target="blank">
@@ -70,4 +70,4 @@
 <a href="https://www.instagram.com/yourpark_dainpark/" target="blank">
 <img height="30" alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
-</p>
+</p> -->
