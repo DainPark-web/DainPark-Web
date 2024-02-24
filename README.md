@@ -3,9 +3,9 @@
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-Mail Me-pink?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-<a href="https://www.dainpark.com/">
+<!-- <a href="https://www.dainpark.com/">
   <img height="40" alt="Codewars" src="https://img.shields.io/badge/-My Website-green?style=flat-square&logo=Web&logoColor=white" />
-</a>
+</a> -->
 <!-- <a href="https://www.codewars.com/users/DainPark-web">
 <img src="https://www.codewars.com/users/DainPark-web/badges/small" />
 </a> -->
